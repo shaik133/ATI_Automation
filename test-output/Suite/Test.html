@@ -1,0 +1,329 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>13/3/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Mar 31 20:31:40 IST 2022</td>
+</tr>
+<tr><td>Total time:</td><td>535 seconds (535640 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.rsa.qa.tests.PracticePageTest.getBrokenLinkTest()'><b>getBrokenLinkTest</b><br>Test class: com.rsa.qa.tests.PracticePageTest</td>
+<td><div><pre>java.lang.AssertionError: The following asserts failed:
+	The Broken link is &apos;Broken Link&apos; with response code of 404 expected [true] but found [false]
+	at com.rsa.qa.actiondriver.Action.getBrokenLink(Action.java:567)
+	at com.rsa.qa.pages.PracticePage.getBrokenLink(PracticePage.java:199)
+	at com.rsa.qa.tests.PracticePageTest.getBrokenLinkTest(PracticePageTest.java:162)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 29 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace337875491", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace337875491'><pre>java.lang.AssertionError: The following asserts failed:
+	The Broken link is &apos;Broken Link&apos; with response code of 404 expected [true] but found [false]
+	at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:46)
+	at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:30)
+	at com.rsa.qa.actiondriver.Action.getBrokenLink(Action.java:567)
+	at com.rsa.qa.pages.PracticePage.getBrokenLink(PracticePage.java:199)
+	at com.rsa.qa.tests.PracticePageTest.getBrokenLinkTest(PracticePageTest.java:162)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:808)
+	at org.testng.TestRunner.run(TestRunner.java:603)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.runSuites(TestNG.java:1092)
+	at org.testng.TestNG.run(TestNG.java:1060)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div></td>
+<td>16</td>
+<td>com.rsa.qa.tests.PracticePageTest@298a5e20</td></tr>
+<tr>
+<td title='com.rsa.qa.tests.PracticePageTest.elementNotDisplayTest()'><b>elementNotDisplayTest</b><br>Test class: com.rsa.qa.tests.PracticePageTest</td>
+<td><div><pre>java.lang.AssertionError: expected [true] but found [false]
+	at com.rsa.qa.tests.PracticePageTest.elementNotDisplayTest(PracticePageTest.java:115)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 31 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace2113328739", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace2113328739'><pre>java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:110)
+	at org.testng.Assert.failNotEquals(Assert.java:1413)
+	at org.testng.Assert.assertTrue(Assert.java:56)
+	at org.testng.Assert.assertTrue(Assert.java:66)
+	at com.rsa.qa.tests.PracticePageTest.elementNotDisplayTest(PracticePageTest.java:115)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:808)
+	at org.testng.TestRunner.run(TestRunner.java:603)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.runSuites(TestNG.java:1092)
+	at org.testng.TestNG.run(TestNG.java:1060)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div></td>
+<td>0</td>
+<td>com.rsa.qa.tests.PracticePageTest@298a5e20</td></tr>
+<tr>
+<td title='com.rsa.qa.tests.PracticePageTest.switchToAlertTest()'><b>switchToAlertTest</b><br>Test class: com.rsa.qa.tests.PracticePageTest</td>
+<td><div><pre>org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Hello shaik, Are you sure you want to confirm?}
+  (Session info: chrome=94.0.4606.54): Hello shaik, Are you sure you want to confirm?
+Build info: version: &apos;4.1.2&apos;, revision: &apos;9a5a329c5a&apos;
+System info: host: &apos;DESKTOP-SDLN166&apos;, ip: &apos;192.168.56.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;16.0.2&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ed54052aa9f06abc73cb50cb3ba521e2, findElement {using=id, value=confirmbtn}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.54, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52539}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52539/devtoo..., se:cdpVersion: 94.0.4606.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed54052aa9f06abc73cb50cb3ba521e2
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:131)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:558)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:382)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy21.toString(Unknown Source)
+	at java.base/java.lang.String.valueOf(String.java:3365)
+	at java.base/java.lang.StringBuilder.append(StringBuilder.java:169)
+	at com.rsa.qa.actiondriver.Action.click(Action.java:171)
+	at com.rsa.qa.pages.PracticePage.switchToAlert(PracticePage.java:145)
+	at com.rsa.qa.tests.PracticePageTest.switchToAlertTest(PracticePageTest.java:97)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 27 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace2045188238", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace2045188238'><pre>org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Hello shaik, Are you sure you want to confirm?}
+  (Session info: chrome=94.0.4606.54): Hello shaik, Are you sure you want to confirm?
+Build info: version: &apos;4.1.2&apos;, revision: &apos;9a5a329c5a&apos;
+System info: host: &apos;DESKTOP-SDLN166&apos;, ip: &apos;192.168.56.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;16.0.2&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ed54052aa9f06abc73cb50cb3ba521e2, findElement {using=id, value=confirmbtn}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.54, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52539}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52539/devtoo..., se:cdpVersion: 94.0.4606.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed54052aa9f06abc73cb50cb3ba521e2
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:131)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:558)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:382)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy21.toString(Unknown Source)
+	at java.base/java.lang.String.valueOf(String.java:3365)
+	at java.base/java.lang.StringBuilder.append(StringBuilder.java:169)
+	at com.rsa.qa.actiondriver.Action.click(Action.java:171)
+	at com.rsa.qa.pages.PracticePage.switchToAlert(PracticePage.java:145)
+	at com.rsa.qa.tests.PracticePageTest.switchToAlertTest(PracticePageTest.java:97)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:808)
+	at org.testng.TestRunner.run(TestRunner.java:603)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.runSuites(TestNG.java:1092)
+	at org.testng.TestNG.run(TestNG.java:1060)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div></td>
+<td>1</td>
+<td>com.rsa.qa.tests.PracticePageTest@298a5e20</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.rsa.qa.tests.PracticePageTest.selectDDTest()'><b>selectDDTest</b><br>Test class: com.rsa.qa.tests.PracticePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.rsa.qa.tests.PracticePageTest@298a5e20</td></tr>
+<tr>
+<td title='com.rsa.qa.tests.PracticePageTest.validateSumofTable()'><b>validateSumofTable</b><br>Test class: com.rsa.qa.tests.PracticePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.rsa.qa.tests.PracticePageTest@298a5e20</td></tr>
+<tr>
+<td title='com.rsa.qa.tests.PracticePageTest.clickRadioBtnTest()'><b>clickRadioBtnTest</b><br>Test class: com.rsa.qa.tests.PracticePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.rsa.qa.tests.PracticePageTest@298a5e20</td></tr>
+<tr>
+<td title='com.rsa.qa.tests.PracticePageTest.autoCompleteTabTest()'><b>autoCompleteTabTest</b><br>Test class: com.rsa.qa.tests.PracticePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.rsa.qa.tests.PracticePageTest@298a5e20</td></tr>
+<tr>
+<td title='com.rsa.qa.tests.PracticePageTest.TotalPriceTest()'><b>TotalPriceTest</b><br>Test class: com.rsa.qa.tests.PracticePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.rsa.qa.tests.PracticePageTest@298a5e20</td></tr>
+<tr>
+<td title='com.rsa.qa.tests.PracticePageTest.SwitchToNewWindowTest()'><b>SwitchToNewWindowTest</b><br>Test class: com.rsa.qa.tests.PracticePageTest</td>
+<td></td>
+<td>17</td>
+<td>com.rsa.qa.tests.PracticePageTest@298a5e20</td></tr>
+<tr>
+<td title='com.rsa.qa.tests.PracticePageTest.getEachLinkTest()'><b>getEachLinkTest</b><br>Test class: com.rsa.qa.tests.PracticePageTest</td>
+<td></td>
+<td>7</td>
+<td>com.rsa.qa.tests.PracticePageTest@298a5e20</td></tr>
+<tr>
+<td title='com.rsa.qa.tests.PracticePageTest.getwindowSizeTest()'><b>getwindowSizeTest</b><br>Test class: com.rsa.qa.tests.PracticePageTest</td>
+<td></td>
+<td>15</td>
+<td>com.rsa.qa.tests.PracticePageTest@298a5e20</td></tr>
+<tr>
+<td title='com.rsa.qa.tests.PracticePageTest.checkBoxTest()'><b>checkBoxTest</b><br>Test class: com.rsa.qa.tests.PracticePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.rsa.qa.tests.PracticePageTest@298a5e20</td></tr>
+<tr>
+<td title='com.rsa.qa.tests.PracticePageTest.iframeSwitchTest()'><b>iframeSwitchTest</b><br>Test class: com.rsa.qa.tests.PracticePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.rsa.qa.tests.PracticePageTest@298a5e20</td></tr>
+<tr>
+<td title='com.rsa.qa.tests.PracticePageTest.mouseHoverClickTest()'><b>mouseHoverClickTest</b><br>Test class: com.rsa.qa.tests.PracticePageTest</td>
+<td></td>
+<td>5</td>
+<td>com.rsa.qa.tests.PracticePageTest@298a5e20</td></tr>
+<tr>
+<td title='com.rsa.qa.tests.PracticePageTest.elementDisplayTest()'><b>elementDisplayTest</b><br>Test class: com.rsa.qa.tests.PracticePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.rsa.qa.tests.PracticePageTest@298a5e20</td></tr>
+<tr>
+<td title='com.rsa.qa.tests.PracticePageTest.getPageTitleTest()'><b>getPageTitleTest</b><br>Test class: com.rsa.qa.tests.PracticePageTest</td>
+<td></td>
+<td>0</td>
+<td>com.rsa.qa.tests.PracticePageTest@298a5e20</td></tr>
+</table><p>
+</body>
+</html>

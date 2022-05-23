@@ -1,0 +1,582 @@
+2022-03-28 15:12:45,572 [main] INFO com.rsa.qa.tests.LandingPageTest - checking the Family and Friends check box
+2022-03-28 15:17:50,955 [main] INFO com.rsa.qa.tests.LandingPageTest - checking the Family and Friends check box
+2022-03-28 15:18:10,235 [main] INFO com.rsa.qa.tests.LandingPageTest - Validating Page Title
+2022-03-28 15:18:10,274 [main] INFO com.rsa.qa.tests.LandingPageTest - Page title is displayed as expected
+2022-03-28 15:18:26,522 [main] INFO com.rsa.qa.tests.LandingPageTest - Slecting the dropdown list
+2022-03-28 15:18:27,928 [main] INFO com.rsa.qa.tests.LandingPageTest - dropdown selected
+2022-03-28 15:29:44,813 [main] INFO com.rsa.qa.tests.LandingPageTest - checking the Family and Friends check box
+2022-03-28 15:30:00,598 [main] INFO com.rsa.qa.tests.LandingPageTest - Validating Page Title
+2022-03-28 15:30:00,636 [main] INFO com.rsa.qa.tests.LandingPageTest - Page title is displayed as expected
+2022-03-28 15:30:11,648 [main] INFO com.rsa.qa.tests.LandingPageTest - Slecting the dropdown list
+2022-03-28 15:30:13,053 [main] INFO com.rsa.qa.tests.LandingPageTest - dropdown selected
+2022-03-28 15:32:25,139 [main] INFO com.rsa.qa.tests.LandingPageTest - checking the Family and Friends check box
+2022-03-28 15:32:41,050 [main] INFO com.rsa.qa.tests.LandingPageTest - Validating Page Title
+2022-03-28 15:32:57,371 [main] INFO com.rsa.qa.tests.LandingPageTest - Slecting the dropdown list
+2022-03-28 15:32:58,724 [main] INFO com.rsa.qa.tests.LandingPageTest - dropdown selected
+2022-03-28 15:36:08,026 [main] INFO com.rsa.qa.tests.LandingPageTest - checking the Family and Friends check box
+2022-03-28 15:36:28,053 [main] INFO com.rsa.qa.tests.LandingPageTest - Validating Page Title
+2022-03-28 15:36:45,018 [main] INFO com.rsa.qa.tests.LandingPageTest - Slecting the dropdown list
+2022-03-28 15:36:46,946 [main] INFO com.rsa.qa.tests.LandingPageTest - dropdown selected
+2022-03-28 17:13:32,628 [main] INFO com.rsa.qa.tests.LandingPageTest - checking the Family and Friends check box
+2022-03-28 17:13:51,480 [main] INFO com.rsa.qa.tests.LandingPageTest - Validating Page Title
+2022-03-28 17:13:51,541 [main] INFO com.rsa.qa.tests.LandingPageTest - Page title is displayed as expected
+2022-03-28 17:14:04,161 [main] INFO com.rsa.qa.tests.LandingPageTest - Slecting no of adults and no of children
+2022-03-28 17:14:20,625 [main] INFO com.rsa.qa.tests.LandingPageTest - Slecting the dropdown list
+2022-03-28 17:14:22,129 [main] INFO com.rsa.qa.tests.LandingPageTest - dropdown selected
+2022-03-28 17:23:50,007 [main] INFO com.rsa.qa.tests.LandingPageTest - checking the Family and Friends check box
+2022-03-28 17:24:08,387 [main] INFO com.rsa.qa.tests.LandingPageTest - Validating Page Title
+2022-03-28 17:24:08,424 [main] INFO com.rsa.qa.tests.LandingPageTest - Page title is displayed as expected
+2022-03-28 17:24:19,287 [main] INFO com.rsa.qa.tests.LandingPageTest - Slecting no of adults and no of children
+2022-03-28 17:24:34,538 [main] INFO com.rsa.qa.tests.LandingPageTest - Slecting the dropdown list
+2022-03-28 17:24:35,854 [main] INFO com.rsa.qa.tests.LandingPageTest - dropdown selected
+2022-03-28 18:09:17,556 [main] INFO com.rsa.qa.tests.LandingPageTest - Validating Page Title
+2022-03-28 18:09:18,334 [main] INFO com.rsa.qa.tests.LandingPageTest - Page title is displayed as expected
+2022-03-28 18:10:00,556 [main] INFO com.rsa.qa.tests.LandingPageTest - checking the Family and Friends check box
+2022-03-28 18:10:32,351 [main] INFO com.rsa.qa.tests.LandingPageTest - Slecting the dropdown list
+2022-03-28 18:10:33,134 [main] INFO com.rsa.qa.tests.LandingPageTest - dropdown selected
+2022-03-28 18:10:49,372 [main] INFO com.rsa.qa.tests.LandingPageTest - Slecting no of adults and no of children
+2022-03-28 18:11:09,670 [main] INFO com.rsa.qa.tests.LandingPageTest - Entering the values in Autosuggest dropdown
+2022-03-28 18:11:14,688 [main] INFO com.rsa.qa.tests.LandingPageTest - Value is seleced
+2022-03-28 18:11:14,690 [main] ERROR com.rsa.qa.tests.LandingPageTest - something went wrong in selecting autosuggest dropdown
+2022-03-28 18:39:56,024 [main] INFO com.rsa.qa.tests.LandingPageTest - Validating Page Title
+2022-03-28 18:39:59,423 [main] INFO com.rsa.qa.tests.LandingPageTest - Page title is displayed as expected
+2022-03-28 18:40:30,716 [main] INFO com.rsa.qa.tests.LandingPageTest - checking the Family and Friends check box
+2022-03-28 18:40:53,474 [main] INFO com.rsa.qa.tests.LandingPageTest - Slecting the dropdown list
+2022-03-28 18:40:53,950 [main] INFO com.rsa.qa.tests.LandingPageTest - dropdown selected
+2022-03-28 18:41:04,930 [main] INFO com.rsa.qa.tests.LandingPageTest - Slecting no of adults and no of children
+2022-03-28 18:41:21,537 [main] INFO com.rsa.qa.tests.LandingPageTest - Entering the values in Autosuggest dropdown
+2022-03-28 18:41:24,441 [main] INFO com.rsa.qa.tests.LandingPageTest - Value is seleced
+2022-03-28 19:29:51,292 [main] INFO com.rsa.qa.tests.LandingPageTest - Validating Page Title
+2022-03-28 19:29:51,554 [main] INFO com.rsa.qa.tests.LandingPageTest - Page title is displayed as expected
+2022-03-28 19:30:25,014 [main] INFO com.rsa.qa.tests.LandingPageTest - checking the Family and Friends check box
+2022-03-28 19:30:47,569 [main] INFO com.rsa.qa.tests.LandingPageTest - Slecting the dropdown list
+2022-03-28 19:30:48,790 [main] INFO com.rsa.qa.tests.LandingPageTest - dropdown selected
+2022-03-28 19:31:03,528 [main] INFO com.rsa.qa.tests.LandingPageTest - Slecting no of adults and no of children
+2022-03-28 19:31:19,942 [main] INFO com.rsa.qa.tests.LandingPageTest - Entering the values in Autosuggest dropdown
+2022-03-28 19:31:22,328 [main] INFO com.rsa.qa.tests.LandingPageTest - Value is seleced
+2022-03-28 19:31:56,654 [main] INFO com.rsa.qa.tests.LandingPageTest - Selecting departure date
+2022-03-28 19:31:58,118 [main] INFO com.rsa.qa.tests.LandingPageTest - Departure date is selected
+2022-03-28 19:43:03,041 [main] INFO com.rsa.qa.tests.LandingPageTest - Validating Page Title
+2022-03-28 19:43:03,102 [main] INFO com.rsa.qa.tests.LandingPageTest - Page title is displayed as expected
+2022-03-28 19:43:15,836 [main] INFO com.rsa.qa.tests.LandingPageTest - checking the Family and Friends check box
+2022-03-28 19:43:34,217 [main] INFO com.rsa.qa.tests.LandingPageTest - Slecting the dropdown list
+2022-03-28 19:43:35,752 [main] INFO com.rsa.qa.tests.LandingPageTest - dropdown selected
+2022-03-28 19:43:48,494 [main] INFO com.rsa.qa.tests.LandingPageTest - Slecting no of adults and no of children
+2022-03-28 19:44:02,687 [main] INFO com.rsa.qa.tests.LandingPageTest - Entering the values in Autosuggest dropdown
+2022-03-28 19:44:04,520 [main] INFO com.rsa.qa.tests.LandingPageTest - Value is seleced
+2022-03-28 19:44:32,513 [main] INFO com.rsa.qa.tests.LandingPageTest - Selecting departure date
+2022-03-28 19:44:34,301 [main] INFO com.rsa.qa.tests.LandingPageTest - Departure date is selected
+2022-03-28 19:49:30,157 [main] INFO com.rsa.qa.tests.LandingPageTest - Validating Page Title
+2022-03-28 19:49:30,203 [main] INFO com.rsa.qa.tests.LandingPageTest - Page title is displayed as expected
+2022-03-28 19:49:45,026 [main] INFO com.rsa.qa.tests.LandingPageTest - checking the Family and Friends check box
+2022-03-28 19:50:11,065 [main] INFO com.rsa.qa.tests.LandingPageTest - Slecting the dropdown list
+2022-03-28 19:50:11,613 [main] INFO com.rsa.qa.tests.LandingPageTest - dropdown selected
+2022-03-28 19:50:27,537 [main] INFO com.rsa.qa.tests.LandingPageTest - Slecting no of adults and no of children
+2022-03-28 19:50:46,704 [main] INFO com.rsa.qa.tests.LandingPageTest - Entering the values in Autosuggest dropdown
+2022-03-28 19:50:48,141 [main] INFO com.rsa.qa.tests.LandingPageTest - Value is seleced
+2022-03-28 19:51:13,002 [main] INFO com.rsa.qa.tests.LandingPageTest - Selecting departure date
+2022-03-28 19:51:13,737 [main] INFO com.rsa.qa.tests.LandingPageTest - Departure date is selected
+2022-03-28 20:56:30,541 [main] INFO com.rsa.qa.tests.LoginHomePageTest - validating pageTitle
+2022-03-28 20:56:30,783 [main] INFO com.rsa.qa.tests.LoginHomePageTest - validating page logo
+2022-03-28 20:56:30,807 [main] INFO com.rsa.qa.tests.LoginHomePageTest - clicking on the login button
+2022-03-28 20:58:25,449 [main] INFO com.rsa.qa.tests.LoginHomePageTest - validating pageTitle
+2022-03-28 20:58:25,503 [main] INFO com.rsa.qa.tests.LoginHomePageTest - validating page logo
+2022-03-28 20:58:25,518 [main] INFO com.rsa.qa.tests.LoginHomePageTest - clicking on the login button
+2022-03-28 21:01:58,575 [main] INFO com.rsa.qa.tests.LoginHomePageTest - browser is launched
+2022-03-28 21:01:59,052 [main] INFO com.rsa.qa.tests.LoginHomePageTest - validating pageTitle
+2022-03-28 21:02:34,774 [main] INFO com.rsa.qa.tests.LoginHomePageTest - browser is launched
+2022-03-28 21:02:34,780 [main] INFO com.rsa.qa.tests.LoginHomePageTest - validating page logo
+2022-03-28 21:02:57,805 [main] INFO com.rsa.qa.tests.LoginHomePageTest - browser is launched
+2022-03-28 21:02:57,810 [main] INFO com.rsa.qa.tests.LoginHomePageTest - clicking on the login button
+2022-03-28 21:10:21,785 [main] INFO com.rsa.qa.tests.LoginHomePageTest - browser is launched
+2022-03-28 21:10:21,907 [main] INFO com.rsa.qa.tests.LoginHomePageTest - validating pageTitle
+2022-03-28 21:10:45,354 [main] INFO com.rsa.qa.tests.LoginHomePageTest - browser is launched
+2022-03-28 21:10:45,360 [main] INFO com.rsa.qa.tests.LoginHomePageTest - validating page logo
+2022-03-28 21:11:09,388 [main] INFO com.rsa.qa.tests.LoginHomePageTest - browser is launched
+2022-03-28 21:11:09,393 [main] INFO com.rsa.qa.tests.LoginHomePageTest - clicking on the login button
+2022-03-28 21:16:20,500 [main] INFO com.rsa.qa.tests.LoginHomePageTest - browser is launched
+2022-03-28 21:16:20,606 [main] INFO com.rsa.qa.tests.LoginHomePageTest - validating pageTitle
+2022-03-28 21:16:42,510 [main] INFO com.rsa.qa.tests.LoginHomePageTest - browser is launched
+2022-03-28 21:16:42,517 [main] INFO com.rsa.qa.tests.LoginHomePageTest - validating page logo
+2022-03-28 21:17:06,761 [main] INFO com.rsa.qa.tests.LoginHomePageTest - browser is launched
+2022-03-28 21:17:06,767 [main] INFO com.rsa.qa.tests.LoginHomePageTest - clicking on the login button
+2022-03-29 16:28:15,206 [main] INFO com.rsa.qa.tests.LoginHomePageTest - browser is launched
+2022-03-29 16:28:15,711 [main] INFO com.rsa.qa.tests.LoginHomePageTest - validating pageTitle
+2022-03-29 16:28:38,734 [main] INFO com.rsa.qa.tests.LoginHomePageTest - browser is launched
+2022-03-29 16:28:38,741 [main] INFO com.rsa.qa.tests.LoginHomePageTest - validating page logo
+2022-03-29 16:29:03,010 [main] INFO com.rsa.qa.tests.LoginHomePageTest - browser is launched
+2022-03-29 16:29:03,017 [main] INFO com.rsa.qa.tests.LoginHomePageTest - clicking on the login button
+2022-03-29 19:55:31,413 [main] INFO com.rsa.qa.tests.LoginPageTest - browser is launching
+2022-03-29 19:56:13,992 [main] INFO com.rsa.qa.tests.LoginPageTest - login button is clicked and navigating to the login forms page
+2022-03-29 19:56:14,013 [main] INFO com.rsa.qa.tests.LoginPageTest - validating the title of the page
+2022-03-29 19:56:20,955 [main] INFO com.rsa.qa.tests.LoginPageTest - browser is launching
+2022-03-29 19:57:21,532 [main] INFO com.rsa.qa.tests.LoginPageTest - login button is clicked and navigating to the login forms page
+2022-03-29 19:57:21,540 [main] INFO com.rsa.qa.tests.LoginPageTest - inputting the username and pwd from excell
+2022-03-29 19:57:23,159 [main] INFO com.rsa.qa.tests.LoginPageTest - browser is launching
+2022-03-29 19:58:19,840 [main] INFO com.rsa.qa.tests.LoginPageTest - login button is clicked and navigating to the login forms page
+2022-03-29 19:58:20,139 [main] INFO com.rsa.qa.tests.LoginPageTest - inputting the username and pwd from excell
+2022-03-29 19:58:21,629 [main] INFO com.rsa.qa.tests.LoginPageTest - browser is launching
+2022-03-29 19:59:11,972 [main] INFO com.rsa.qa.tests.LoginPageTest - login button is clicked and navigating to the login forms page
+2022-03-29 19:59:11,977 [main] INFO com.rsa.qa.tests.LoginPageTest - inputting the username and pwd from excell
+2022-03-29 19:59:13,523 [main] INFO com.rsa.qa.tests.LoginPageTest - browser is launching
+2022-03-29 20:00:31,269 [main] INFO com.rsa.qa.tests.LoginPageTest - login button is clicked and navigating to the login forms page
+2022-03-29 20:00:31,273 [main] INFO com.rsa.qa.tests.LoginPageTest - inputting the username and pwd from excell
+2022-03-30 12:08:52,849 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 12:11:07,067 [main] INFO com.rsa.qa.tests.PracticePageTest - Validating pageTitle
+2022-03-30 12:12:08,157 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 12:13:53,508 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 12:14:29,728 [main] INFO com.rsa.qa.tests.PracticePageTest - Validating pageTitle
+2022-03-30 12:14:32,904 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 13:29:27,841 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 13:30:15,790 [main] INFO com.rsa.qa.tests.PracticePageTest - Validating pageTitle
+2022-03-30 13:30:23,215 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 13:30:23,225 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 13:30:58,101 [main] INFO com.rsa.qa.tests.PracticePageTest - selecting Radio button
+2022-03-30 13:31:01,272 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 13:31:01,278 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 13:31:24,503 [main] INFO com.rsa.qa.tests.PracticePageTest - sending values in autosuggest tab and clicking desired value
+2022-03-30 13:31:26,069 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 13:31:26,073 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 13:31:46,953 [main] INFO com.rsa.qa.tests.PracticePageTest - Selecting desied value from select dropdown
+2022-03-30 13:31:48,802 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 13:31:48,807 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 13:32:06,668 [main] INFO com.rsa.qa.tests.PracticePageTest - select check box
+2022-03-30 13:32:08,217 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 13:45:26,035 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 13:47:17,121 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 13:48:41,808 [main] INFO com.rsa.qa.tests.PracticePageTest - Validating pageTitle
+2022-03-30 13:48:50,955 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 13:48:50,966 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 13:49:14,557 [main] INFO com.rsa.qa.tests.PracticePageTest - selecting Radio button
+2022-03-30 13:49:15,675 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 13:49:15,680 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 13:49:36,884 [main] INFO com.rsa.qa.tests.PracticePageTest - sending values in autosuggest tab and clicking desired value
+2022-03-30 13:49:39,198 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 13:49:39,202 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 13:50:00,643 [main] INFO com.rsa.qa.tests.PracticePageTest - Selecting desied value from select dropdown
+2022-03-30 13:50:02,264 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 13:50:02,269 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 13:50:21,855 [main] INFO com.rsa.qa.tests.PracticePageTest - select check box
+2022-03-30 13:50:23,550 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 13:57:32,303 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 13:58:05,687 [main] INFO com.rsa.qa.tests.PracticePageTest - Validating pageTitle
+2022-03-30 13:58:10,699 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 13:58:10,710 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 13:58:32,282 [main] INFO com.rsa.qa.tests.PracticePageTest - selecting Radio button
+2022-03-30 13:58:35,432 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 13:58:35,437 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 13:58:57,852 [main] INFO com.rsa.qa.tests.PracticePageTest - sending values in autosuggest tab and clicking desired value
+2022-03-30 13:59:00,098 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 13:59:00,102 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 13:59:18,486 [main] INFO com.rsa.qa.tests.PracticePageTest - Selecting desied value from select dropdown
+2022-03-30 13:59:19,652 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 13:59:19,661 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 13:59:38,799 [main] INFO com.rsa.qa.tests.PracticePageTest - select check box
+2022-03-30 13:59:39,718 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 15:23:56,516 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 15:24:53,763 [main] INFO com.rsa.qa.tests.PracticePageTest - Validating pageTitle
+2022-03-30 15:24:57,783 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 15:24:57,794 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 15:25:19,393 [main] INFO com.rsa.qa.tests.PracticePageTest - selecting Radio button
+2022-03-30 15:25:20,963 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 15:25:20,969 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 15:25:41,724 [main] INFO com.rsa.qa.tests.PracticePageTest - sending values in autosuggest tab and clicking desired value
+2022-03-30 15:25:44,730 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 15:25:44,738 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 15:26:05,302 [main] INFO com.rsa.qa.tests.PracticePageTest - Selecting desied value from select dropdown
+2022-03-30 15:26:07,961 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 15:26:07,967 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 15:26:33,028 [main] INFO com.rsa.qa.tests.PracticePageTest - select check box
+2022-03-30 15:26:39,402 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 15:26:39,407 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 15:27:01,107 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 16:33:35,566 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 16:34:14,437 [main] INFO com.rsa.qa.tests.PracticePageTest - Validating pageTitle
+2022-03-30 16:34:25,045 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 16:34:25,052 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 16:34:44,418 [main] INFO com.rsa.qa.tests.PracticePageTest - selecting Radio button
+2022-03-30 16:34:54,850 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 16:34:54,855 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 16:35:25,233 [main] INFO com.rsa.qa.tests.PracticePageTest - sending values in autosuggest tab and clicking desired value
+2022-03-30 16:35:26,624 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 16:35:26,627 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 16:35:48,103 [main] INFO com.rsa.qa.tests.PracticePageTest - Selecting desied value from select dropdown
+2022-03-30 16:35:49,478 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 16:35:49,482 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 16:36:10,965 [main] INFO com.rsa.qa.tests.PracticePageTest - select check box
+2022-03-30 16:36:12,011 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 16:36:12,016 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 16:37:05,991 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 17:07:19,782 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 17:08:01,073 [main] INFO com.rsa.qa.tests.PracticePageTest - Validating pageTitle
+2022-03-30 17:08:08,815 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 17:08:08,834 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 17:08:38,685 [main] INFO com.rsa.qa.tests.PracticePageTest - selecting Radio button
+2022-03-30 17:08:42,028 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 17:08:42,033 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 17:09:07,289 [main] INFO com.rsa.qa.tests.PracticePageTest - sending values in autosuggest tab and clicking desired value
+2022-03-30 17:09:09,430 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 17:09:09,435 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 17:09:26,497 [main] INFO com.rsa.qa.tests.PracticePageTest - Selecting desied value from select dropdown
+2022-03-30 17:09:28,086 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 17:09:28,091 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 17:09:44,792 [main] INFO com.rsa.qa.tests.PracticePageTest - select check box
+2022-03-30 17:09:46,261 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 17:09:46,265 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 17:10:42,996 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 17:10:43,008 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 17:11:16,755 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 17:14:36,269 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 17:15:01,778 [main] INFO com.rsa.qa.tests.PracticePageTest - Validating pageTitle
+2022-03-30 17:15:08,169 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 17:15:08,178 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 17:15:35,430 [main] INFO com.rsa.qa.tests.PracticePageTest - selecting Radio button
+2022-03-30 17:15:38,741 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 17:15:38,746 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 17:16:06,836 [main] INFO com.rsa.qa.tests.PracticePageTest - sending values in autosuggest tab and clicking desired value
+2022-03-30 17:16:09,066 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 17:16:09,071 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 17:16:28,891 [main] INFO com.rsa.qa.tests.PracticePageTest - Selecting desied value from select dropdown
+2022-03-30 17:16:33,863 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 17:16:33,868 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 17:16:50,201 [main] INFO com.rsa.qa.tests.PracticePageTest - select check box
+2022-03-30 17:16:52,170 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 17:16:52,174 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 17:17:43,446 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 17:17:43,451 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 17:18:10,364 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 17:25:58,751 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 17:26:51,993 [main] INFO com.rsa.qa.tests.PracticePageTest - Validating pageTitle
+2022-03-30 17:27:01,756 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 17:27:01,765 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 17:27:29,144 [main] INFO com.rsa.qa.tests.PracticePageTest - selecting Radio button
+2022-03-30 17:28:25,979 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 17:28:25,984 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 17:28:51,666 [main] INFO com.rsa.qa.tests.PracticePageTest - sending values in autosuggest tab and clicking desired value
+2022-03-30 17:28:54,444 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 17:28:54,447 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 17:29:20,104 [main] INFO com.rsa.qa.tests.PracticePageTest - Selecting desied value from select dropdown
+2022-03-30 17:29:21,202 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 17:29:21,205 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 17:29:48,425 [main] INFO com.rsa.qa.tests.PracticePageTest - select check box
+2022-03-30 17:29:57,004 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 17:29:57,008 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 17:30:51,498 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 17:30:51,511 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 17:31:55,605 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 18:38:46,229 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 18:39:29,354 [main] INFO com.rsa.qa.tests.PracticePageTest - Validating pageTitle
+2022-03-30 18:39:33,415 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 18:39:33,424 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 18:39:59,238 [main] INFO com.rsa.qa.tests.PracticePageTest - selecting Radio button
+2022-03-30 18:40:02,233 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 18:40:02,238 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 18:40:24,691 [main] INFO com.rsa.qa.tests.PracticePageTest - sending values in autosuggest tab and clicking desired value
+2022-03-30 18:40:28,879 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 18:40:28,883 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 18:40:47,752 [main] INFO com.rsa.qa.tests.PracticePageTest - Selecting desied value from select dropdown
+2022-03-30 18:40:58,286 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 18:40:58,291 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 18:41:23,467 [main] INFO com.rsa.qa.tests.PracticePageTest - select check box
+2022-03-30 18:41:28,663 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 18:41:28,667 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 18:41:48,860 [main] INFO com.rsa.qa.tests.PracticePageTest - switching to child window
+2022-03-30 18:42:15,696 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 18:42:15,700 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 18:42:40,642 [main] INFO com.rsa.qa.tests.PracticePageTest - new tab is being clicked
+2022-03-30 18:42:56,598 [main] INFO com.rsa.qa.tests.PracticePageTest - validating new page title
+2022-03-30 18:42:56,842 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 18:42:56,845 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 18:43:51,462 [main] INFO com.rsa.qa.tests.PracticePageTest - switching to alert
+2022-03-30 18:44:47,287 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:04:50,803 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:05:27,209 [main] INFO com.rsa.qa.tests.PracticePageTest - Validating pageTitle
+2022-03-30 19:05:29,300 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:05:29,311 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:05:46,057 [main] INFO com.rsa.qa.tests.PracticePageTest - selecting Radio button
+2022-03-30 19:05:47,177 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:05:47,182 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:06:05,597 [main] INFO com.rsa.qa.tests.PracticePageTest - sending values in autosuggest tab and clicking desired value
+2022-03-30 19:06:07,038 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:06:07,041 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:06:24,635 [main] INFO com.rsa.qa.tests.PracticePageTest - Selecting desied value from select dropdown
+2022-03-30 19:06:25,892 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:06:25,896 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:06:43,847 [main] INFO com.rsa.qa.tests.PracticePageTest - select check box
+2022-03-30 19:06:45,016 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:06:45,021 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:07:02,288 [main] INFO com.rsa.qa.tests.PracticePageTest - switching to child window
+2022-03-30 19:07:24,261 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:07:24,270 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:07:48,074 [main] INFO com.rsa.qa.tests.PracticePageTest - new tab is being clicked
+2022-03-30 19:07:57,756 [main] INFO com.rsa.qa.tests.PracticePageTest - validating new page title
+2022-03-30 19:07:57,845 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:07:57,847 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:08:40,824 [main] INFO com.rsa.qa.tests.PracticePageTest - switching to alert
+2022-03-30 19:09:24,396 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:14:03,526 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:14:42,079 [main] INFO com.rsa.qa.tests.PracticePageTest - Validating pageTitle
+2022-03-30 19:14:44,539 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:14:44,549 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:15:09,264 [main] INFO com.rsa.qa.tests.PracticePageTest - selecting Radio button
+2022-03-30 19:15:10,254 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:15:10,257 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:15:29,949 [main] INFO com.rsa.qa.tests.PracticePageTest - sending values in autosuggest tab and clicking desired value
+2022-03-30 19:15:31,355 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:15:31,359 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:15:54,153 [main] INFO com.rsa.qa.tests.PracticePageTest - Selecting desied value from select dropdown
+2022-03-30 19:16:01,735 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:16:01,740 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:16:22,853 [main] INFO com.rsa.qa.tests.PracticePageTest - select check box
+2022-03-30 19:16:25,100 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:16:25,104 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:16:45,225 [main] INFO com.rsa.qa.tests.PracticePageTest - switching to child window
+2022-03-30 19:18:23,155 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:18:23,225 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:19:01,035 [main] INFO com.rsa.qa.tests.PracticePageTest - new tab is being clicked
+2022-03-30 19:19:28,273 [main] INFO com.rsa.qa.tests.PracticePageTest - validating new page title
+2022-03-30 19:19:28,451 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:19:28,454 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:20:04,914 [main] INFO com.rsa.qa.tests.PracticePageTest - switching to alert
+2022-03-30 19:20:22,861 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:26:30,860 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:27:11,815 [main] INFO com.rsa.qa.tests.PracticePageTest - Validating pageTitle
+2022-03-30 19:27:35,102 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:27:35,111 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:28:13,482 [main] INFO com.rsa.qa.tests.PracticePageTest - selecting Radio button
+2022-03-30 19:28:26,242 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:28:26,247 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:28:51,218 [main] INFO com.rsa.qa.tests.PracticePageTest - sending values in autosuggest tab and clicking desired value
+2022-03-30 19:29:09,739 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:29:09,744 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:29:30,778 [main] INFO com.rsa.qa.tests.PracticePageTest - Selecting desied value from select dropdown
+2022-03-30 19:29:35,775 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:29:35,779 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:29:49,677 [main] INFO com.rsa.qa.tests.PracticePageTest - select check box
+2022-03-30 19:29:50,511 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:29:50,513 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:30:10,081 [main] INFO com.rsa.qa.tests.PracticePageTest - switching to child window
+2022-03-30 19:30:30,968 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:30:30,979 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:30:57,864 [main] INFO com.rsa.qa.tests.PracticePageTest - new tab is being clicked
+2022-03-30 19:31:20,398 [main] INFO com.rsa.qa.tests.PracticePageTest - validating new page title
+2022-03-30 19:31:20,614 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-30 19:31:20,617 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-30 19:32:58,420 [main] INFO com.rsa.qa.tests.PracticePageTest - switching to alert
+2022-03-30 19:34:03,194 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 09:25:54,406 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 09:26:59,700 [main] INFO com.rsa.qa.tests.PracticePageTest - Validating pageTitle
+2022-03-31 09:27:05,611 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 09:27:05,621 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 09:27:21,846 [main] INFO com.rsa.qa.tests.PracticePageTest - selecting Radio button
+2022-03-31 09:27:23,548 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 09:27:23,550 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 09:27:40,433 [main] INFO com.rsa.qa.tests.PracticePageTest - sending values in autosuggest tab and clicking desired value
+2022-03-31 09:27:42,409 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 09:27:42,415 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 09:28:01,115 [main] INFO com.rsa.qa.tests.PracticePageTest - Selecting desied value from select dropdown
+2022-03-31 09:28:06,804 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 09:28:06,808 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 09:28:29,859 [main] INFO com.rsa.qa.tests.PracticePageTest - select check box
+2022-03-31 09:28:31,766 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 09:28:31,770 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 09:28:48,600 [main] INFO com.rsa.qa.tests.PracticePageTest - switching to child window
+2022-03-31 09:29:17,818 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 09:29:17,827 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 09:29:42,650 [main] INFO com.rsa.qa.tests.PracticePageTest - new tab is being clicked
+2022-03-31 09:30:03,631 [main] INFO com.rsa.qa.tests.PracticePageTest - validating new page title
+2022-03-31 09:30:03,839 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 09:30:03,843 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 09:31:10,214 [main] INFO com.rsa.qa.tests.PracticePageTest - switching to alert
+2022-03-31 09:31:44,127 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:19:55,582 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:20:23,212 [main] INFO com.rsa.qa.tests.PracticePageTest - Validating pageTitle
+2022-03-31 10:20:25,185 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:20:25,195 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:20:43,998 [main] INFO com.rsa.qa.tests.PracticePageTest - selecting Radio button
+2022-03-31 10:20:46,315 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:20:46,320 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:21:09,252 [main] INFO com.rsa.qa.tests.PracticePageTest - sending values in autosuggest tab and clicking desired value
+2022-03-31 10:21:10,472 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:21:10,475 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:21:40,307 [main] INFO com.rsa.qa.tests.PracticePageTest - Selecting desied value from select dropdown
+2022-03-31 10:21:42,092 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:21:42,097 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:21:59,996 [main] INFO com.rsa.qa.tests.PracticePageTest - select check box
+2022-03-31 10:22:01,053 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:22:01,057 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:22:18,491 [main] INFO com.rsa.qa.tests.PracticePageTest - switching to child window
+2022-03-31 10:22:58,769 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:22:58,773 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:23:22,510 [main] INFO com.rsa.qa.tests.PracticePageTest - new tab is being clicked
+2022-03-31 10:23:43,399 [main] INFO com.rsa.qa.tests.PracticePageTest - validating new page title
+2022-03-31 10:23:43,517 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:23:43,519 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:24:29,391 [main] INFO com.rsa.qa.tests.PracticePageTest - switching to alert
+2022-03-31 10:24:31,649 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:24:31,653 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:25:03,406 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:25:03,410 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:25:30,921 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:31:02,521 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:31:25,390 [main] INFO com.rsa.qa.tests.PracticePageTest - Validating pageTitle
+2022-03-31 10:31:26,691 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:31:26,700 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:31:43,373 [main] INFO com.rsa.qa.tests.PracticePageTest - selecting Radio button
+2022-03-31 10:31:44,805 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:31:44,809 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:32:04,087 [main] INFO com.rsa.qa.tests.PracticePageTest - sending values in autosuggest tab and clicking desired value
+2022-03-31 10:32:05,207 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:32:05,210 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:32:24,965 [main] INFO com.rsa.qa.tests.PracticePageTest - Selecting desied value from select dropdown
+2022-03-31 10:32:26,554 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:32:26,558 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:32:43,783 [main] INFO com.rsa.qa.tests.PracticePageTest - select check box
+2022-03-31 10:32:44,770 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:32:44,775 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:33:02,197 [main] INFO com.rsa.qa.tests.PracticePageTest - switching to child window
+2022-03-31 10:33:18,782 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:33:18,790 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:33:45,592 [main] INFO com.rsa.qa.tests.PracticePageTest - new tab is being clicked
+2022-03-31 10:33:59,869 [main] INFO com.rsa.qa.tests.PracticePageTest - validating new page title
+2022-03-31 10:34:00,099 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:34:00,104 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:34:50,386 [main] INFO com.rsa.qa.tests.PracticePageTest - switching to alert
+2022-03-31 10:35:00,630 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:35:00,634 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:36:03,117 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:36:03,121 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:36:31,751 [main] INFO com.rsa.qa.tests.PracticePageTest - validating text box is visible or not
+2022-03-31 10:36:47,944 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:39:53,027 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:40:14,932 [main] INFO com.rsa.qa.tests.PracticePageTest - validating text box is visible or not
+2022-03-31 10:40:16,039 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:42:06,324 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:42:25,801 [main] INFO com.rsa.qa.tests.PracticePageTest - validating text box is visible or not
+2022-03-31 10:42:32,970 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 10:55:11,934 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 10:55:35,684 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 11:01:41,094 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 11:02:06,097 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 11:03:08,873 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 11:03:31,962 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 11:06:17,337 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 11:06:39,974 [main] INFO com.rsa.qa.tests.PracticePageTest - validating text box is visible or not
+2022-03-31 11:06:42,282 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 11:08:26,215 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 11:08:48,851 [main] INFO com.rsa.qa.tests.PracticePageTest - validating text box is visible or not
+2022-03-31 11:08:49,944 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 11:21:34,453 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 11:21:54,069 [main] INFO com.rsa.qa.tests.PracticePageTest - switching to alert
+2022-03-31 11:21:56,099 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 11:24:11,062 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 11:24:32,875 [main] INFO com.rsa.qa.tests.PracticePageTest - validating text box is visible or not
+2022-03-31 11:24:34,681 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 11:27:06,502 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 11:27:28,142 [main] INFO com.rsa.qa.tests.PracticePageTest - switching to alert
+2022-03-31 11:27:29,464 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 13:37:08,449 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 13:38:11,016 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 13:40:51,166 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 13:41:23,550 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 13:42:04,281 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 13:42:28,119 [main] INFO com.rsa.qa.tests.PracticePageTest - 296 is Total Sum
+2022-03-31 13:42:28,175 [main] INFO com.rsa.qa.tests.PracticePageTest - 296 is expected Sum
+2022-03-31 13:42:29,187 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 14:41:14,455 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 14:41:40,242 [main] INFO com.rsa.qa.tests.PracticePageTest - calculating total sum of amount from all rows
+2022-03-31 14:41:41,124 [main] INFO com.rsa.qa.tests.PracticePageTest - Total amount present on screen
+2022-03-31 14:41:42,377 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 15:06:03,932 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 15:06:24,840 [main] INFO com.rsa.qa.tests.PracticePageTest - Vaildating the total price of the products listed
+2022-03-31 15:06:26,408 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 15:14:28,034 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 15:14:49,028 [main] INFO com.rsa.qa.tests.PracticePageTest - Vaildating the total price of the products listed
+2022-03-31 15:14:51,027 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 15:32:01,946 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 15:32:39,714 [main] INFO com.rsa.qa.tests.PracticePageTest - Mouse movement action and click on reload
+2022-03-31 15:32:41,515 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 15:33:58,993 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 15:34:26,688 [main] INFO com.rsa.qa.tests.PracticePageTest - Mouse movement action and click on reload
+2022-03-31 15:34:28,082 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 15:35:04,427 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 15:35:25,189 [main] INFO com.rsa.qa.tests.PracticePageTest - Mouse movement action and click on reload
+2022-03-31 15:43:24,129 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 15:43:48,204 [main] INFO com.rsa.qa.tests.PracticePageTest - Mouse movement action and click on reload
+2022-03-31 15:53:01,663 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 15:53:25,706 [main] INFO com.rsa.qa.tests.PracticePageTest - Mouse movement action and click on reload
+2022-03-31 15:57:27,024 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 15:57:49,437 [main] INFO com.rsa.qa.tests.PracticePageTest - Mouse movement action and click on reload
+2022-03-31 16:29:14,497 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 16:30:35,889 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 16:34:15,858 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 16:35:18,510 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 16:45:40,844 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 16:46:06,893 [main] INFO com.rsa.qa.tests.PracticePageTest - validating the text by switching into frame
+2022-03-31 19:34:14,531 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 19:34:59,581 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 20:11:45,228 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 20:12:29,303 [main] INFO com.rsa.qa.tests.PracticePageTest - Vaildating the each link and finding broken link
+2022-03-31 20:12:39,856 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 20:14:00,166 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 20:14:23,286 [main] INFO com.rsa.qa.tests.PracticePageTest - Vaildating the each link and finding broken link
+2022-03-31 20:14:33,235 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 20:16:43,655 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 20:17:02,934 [main] INFO com.rsa.qa.tests.PracticePageTest - Vaildating the each link and finding broken link
+2022-03-31 20:17:12,225 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 20:31:41,026 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 20:32:18,060 [main] INFO com.rsa.qa.tests.PracticePageTest - Validating pageTitle
+2022-03-31 20:32:18,940 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 20:32:18,948 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 20:32:46,399 [main] INFO com.rsa.qa.tests.PracticePageTest - selecting Radio button
+2022-03-31 20:32:47,645 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 20:32:47,650 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 20:33:04,887 [main] INFO com.rsa.qa.tests.PracticePageTest - sending values in autosuggest tab and clicking desired value
+2022-03-31 20:33:05,874 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 20:33:05,876 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 20:33:22,079 [main] INFO com.rsa.qa.tests.PracticePageTest - Selecting desied value from select dropdown
+2022-03-31 20:33:22,951 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 20:33:22,954 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 20:33:39,544 [main] INFO com.rsa.qa.tests.PracticePageTest - select check box
+2022-03-31 20:33:40,280 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 20:33:40,283 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 20:33:58,468 [main] INFO com.rsa.qa.tests.PracticePageTest - switching to child window
+2022-03-31 20:34:13,990 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 20:34:13,994 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 20:34:39,386 [main] INFO com.rsa.qa.tests.PracticePageTest - new tab is being clicked
+2022-03-31 20:34:56,925 [main] INFO com.rsa.qa.tests.PracticePageTest - validating new page title
+2022-03-31 20:34:57,071 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 20:34:57,074 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 20:36:03,755 [main] INFO com.rsa.qa.tests.PracticePageTest - switching to alert
+2022-03-31 20:36:43,532 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 20:36:43,536 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 20:37:07,054 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 20:37:07,056 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 20:37:24,913 [main] INFO com.rsa.qa.tests.PracticePageTest - validating text box is visible or not
+2022-03-31 20:37:29,368 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 20:37:29,371 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 20:37:44,961 [main] INFO com.rsa.qa.tests.PracticePageTest - calculating total sum of amount from all rows
+2022-03-31 20:37:45,429 [main] INFO com.rsa.qa.tests.PracticePageTest - Total amount present on screen
+2022-03-31 20:37:49,928 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 20:37:49,931 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 20:38:05,178 [main] INFO com.rsa.qa.tests.PracticePageTest - Vaildating the total price of the products listed
+2022-03-31 20:38:08,928 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 20:38:08,932 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 20:38:25,627 [main] INFO com.rsa.qa.tests.PracticePageTest - Mouse movement action and click on reload
+2022-03-31 20:38:32,574 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 20:38:32,577 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 20:38:49,589 [main] INFO com.rsa.qa.tests.PracticePageTest - validating the text by switching into frame
+2022-03-31 20:38:50,304 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 20:38:50,307 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 20:39:12,282 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-03-31 20:39:12,285 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is getting launched
+2022-03-31 20:39:51,889 [main] INFO com.rsa.qa.tests.PracticePageTest - Vaildating the each link and finding broken link
+2022-03-31 20:40:36,291 [main] INFO com.rsa.qa.tests.PracticePageTest - Browser is closed
+2022-04-01 11:32:05,372 [main] INFO com.rsa.qa.tests.CartPageTest - clicking on the cart button
+2022-04-01 11:32:06,073 [main] INFO com.rsa.qa.tests.CartPageTest - validating the is chekout button is enabled
+2022-04-01 11:36:23,068 [main] INFO com.rsa.qa.tests.CartPageTest - clicking on the cart button
+2022-04-01 11:36:23,441 [main] INFO com.rsa.qa.tests.CartPageTest - validating the is chekout button is enabled
+2022-04-01 11:42:39,881 [main] INFO com.rsa.qa.tests.CartPageTest - validating the is chekout button is enabled
+2022-04-01 11:44:43,222 [main] INFO com.rsa.qa.tests.CartPageTest - validating the is chekout button is enabled
+2022-04-01 11:57:12,932 [main] INFO com.rsa.qa.tests.CartPageTest - validating the is chekout button is enabled
+2022-04-01 18:17:09,688 [main] INFO com.rsa.qa.tests.AmazonLandPageTest - clicking on the Account & List button
